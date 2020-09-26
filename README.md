@@ -1,7 +1,7 @@
 # Efficient Handwriting Generation from ASCII Text with c-LSGANs
 ## Amogh Shreedhar Inamdar, Anagha M Rajeev, Sindhuja V Rai
 
-A system for efficiently generating large amounts of text using comditional Least-Squares Generative Adversarial Networks (c-LSGANs) for character-wise handwriting generation and a heuristic for generating handwriting images of input text.
+A system for efficiently generating large amounts of text using conditional Least-Squares Generative Adversarial Networks (c-LSGANs) for character-wise handwriting generation and a heuristic for generating handwriting images of input text.
 
 Input ASCII text is processed character-by-character. Each character of the text is encoded and used to generate a corresponding image of that character. These images are stitched together to form a handwritten version of the input text.
 
